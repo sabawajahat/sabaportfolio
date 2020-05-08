@@ -1,0 +1,133 @@
+
+#icon{
+background-color: rgb(94, 94, 241);
+display: flex;
+justify-content: space-around;
+margin: auto;
+padding-top: 0.5%;
+padding-left: 3%;
+padding-right: 3%;
+}
+li{
+    display: inline;
+}
+#nav{
+    justify-content: space-around;
+}
+.intro{
+    margin-top: auto;
+    padding: 5%;
+    ;
+}
+.intro2 { margin-top: 2px; padding-top: 2px;
+    padding-right: 90px; padding-left: 90px;
+text-align: center;}
+
+#bluebox{
+    background-color: blue;
+}
+
+.food{
+justify-content: space-around;
+}
+.mydivs{
+   justify-content: center;
+   padding-top: 40px;
+   margin: auto;
+}
+.mydivs2{
+   margin: 15px;
+}
+.myset{
+    margin-top: auto; padding-top: 3%;
+    text-align: center;
+}
+.mydivs3{
+    margin: 5px;
+    justify-content: space-around;
+    background-color: white; box-shadow: slategray;
+   width: 300px; height: 170px;
+   padding-top: 40px;
+   box-shadow: grey;
+}
+
+}
+.divs4{
+   width: 370px;
+   height: 70px;
+   background-color: rgb(200, 198, 204);
+      margin: 10px
+}
+.mediacell{
+    border-color: silver;
+    background-color: silver;
+ margin-top: 3px;
+ margin-left: 3px;
+ margin-right: 3px;
+ margin-bottom: 3px;
+ justify-content: space-around;
+    width: 200px;
+    height: 60px;
+}
+
+.mydivsmydivs{ 
+    justify-content: center;
+    padding-top: 50px;
+    margin: auto;
+
+}
+
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid #777;
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 15px;
+    text-align: center;
+  }
+
+
+.mediaobject1{
+
+
+    background-color: silver;
+   width: 350px;
+    margin: 3px;
+}
+.missions{
+    margin-top: 3px;
+}
+
+.span
+
+{padding-left: 0%;
+
+padding-right: 0%;
+margin-left: 0%;
+margin-right: 0%;
+
+}
+.footer {
+    padding-top: 10px;
+    background-color: rgb(34, 32, 32);
+    height: 300px;
+  }
+  .btn:hover {
+    background-color: #5b50c0;
+    border-radius: 20px;
+    color: white;
+   
+  }
